@@ -1,5 +1,5 @@
 const API_URL =
-  "https://crudcrud.com/api/d71e15d7d538479c8e8b299d62348202/posts";
+  "https://crudcrud.com/api/843f0b333b3d480abeda053fa66b3be1/posts";
 
 export interface Post {
   _id: string;
